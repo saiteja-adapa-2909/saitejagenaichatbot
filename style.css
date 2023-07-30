@@ -62,7 +62,7 @@ body {
     background-position: 0% 0%;
     background-clip: text;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: #c01eca6b;
     color: rgb(24, 156, 177);
     font-size: 80px;
     font-family: Outfit, sans-serif;
